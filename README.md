@@ -1,7 +1,6 @@
 These tasks will help you practice joins, aggregations, window functions, and subqueries.
 
-
-Tasks
+   #Tasks
 
 Task 1: High-Spending Customers
 Write a query to find customers who have spent more than $250 in total. Include their name, email, and total spending.
