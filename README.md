@@ -11,7 +11,9 @@ Find the most frequently purchased product(s) and the total quantity sold.
 
 Task 3: Customer Purchase Trends
 For each customer, calculate:
+
 •	The total number of orders they placed.
+
 •	Their average order value.
 
 Task 4: Order Insights
