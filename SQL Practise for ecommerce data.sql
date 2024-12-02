@@ -69,7 +69,7 @@ VALUES
 --Write a query to find customers who have spent more than $250 in total. Include their name, email, and total spending.
 
 SELECT 
-      Customers.Name,
+          Customers.Name,
 	  Customers.Email,
 	  SUM(Orders.TotalAmount) AS TotalSpending
 FROM Customers 
